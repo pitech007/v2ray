@@ -122,7 +122,7 @@ Xshell 是一个 SSH 客户端，要登录 VPS，当然需要 SSH 客户端<br /
 <td align="center">20 GB</td>
 <td align="center"><strong>2.5 G</strong></td>
 <td align="center">1000GB / 月</td>
-<td align="center"><strong>$35.99 / 季</strong></td>
+<td align="center"><strong>$65.99 / 半年</strong></td>
 <td align="center"><a href="https://affpass.com/go/bwg/87" rel="nofollow" target="_blank">购买</a></td>
 </tr>
 
@@ -272,22 +272,11 @@ Xshell 是一个 SSH 客户端，要登录 VPS，当然需要 SSH 客户端<br /
 <tr>
 <td align="center">CN2</td>
 <td align="center">1 核</td>
-<td align="center">512 MB</td>
-<td align="center">10 GB</td>
-<td align="center">1 G</td>
-<td align="center">500GB / 月</td>
-<td align="center"><strong>$29.99 / 年</strong></td>
-<td align="center"><a href="https://affpass.com/go/bwg/56" rel="nofollow" target="_blank">购买</a></td>
-</tr>
-
-<tr>
-<td align="center">CN2</td>
-<td align="center">1 核</td>
 <td align="center">1024 MB</td>
 <td align="center">20 GB</td>
 <td align="center">1 G</td>
 <td align="center">1000GB / 月</td>
-<td align="center"><strong>$29.99 / 半年</strong></td>
+<td align="center"><strong>$49.99 / 年</strong></td>
 <td align="center"><a href="https://affpass.com/go/bwg/57" rel="nofollow" target="_blank">购买</a></td>
 </tr>
 
@@ -298,7 +287,7 @@ Xshell 是一个 SSH 客户端，要登录 VPS，当然需要 SSH 客户端<br /
 <td align="center">40 GB</td>
 <td align="center">1 G</td>
 <td align="center">2000GB / 月</td>
-<td align="center">$27.99 / 季</td>
+<td align="center">$52.99 / 半年</td>
 <td align="center"><a href="https://affpass.com/go/bwg/58" rel="nofollow" target="_blank">购买</a></td>
 </tr>
 
@@ -309,7 +298,7 @@ Xshell 是一个 SSH 客户端，要登录 VPS，当然需要 SSH 客户端<br /
 <td align="center">80 GB</td>
 <td align="center">1 G</td>
 <td align="center">3000GB / 月</td>
-<td align="center">$19.99 / 月</td>
+<td align="center">$59.99 / 季</td>
 <td align="center"><a href="https://affpass.com/go/bwg/59" rel="nofollow" target="_blank">购买</a></td>
 </tr>
 
@@ -353,7 +342,7 @@ Xshell 是一个 SSH 客户端，要登录 VPS，当然需要 SSH 客户端<br /
 <td align="center">20 GB</td>
 <td align="center">1 G</td>
 <td align="center">1 TB / 月</td>
-<td align="center"><strong>$25.99 / 半年</strong></td>
+<td align="center"><strong>$49.99 / 年</strong></td>
 <td align="center"><a href="https://affpass.com/go/bwg/44" rel="nofollow" target="_blank">购买</a></td>
 </tr>
 
@@ -364,7 +353,7 @@ Xshell 是一个 SSH 客户端，要登录 VPS，当然需要 SSH 客户端<br /
 <td align="center">40 GB</td>
 <td align="center">1 G</td>
 <td align="center">2 TB / 月</td>
-<td align="center">$27.99 / 季</td>
+<td align="center">$52.99 / 半年</td>
 <td align="center"><a href="https://affpass.com/go/bwg/45" rel="nofollow" target="_blank">购买</a></td>
 </tr>
 
@@ -439,19 +428,8 @@ Xshell 是一个 SSH 客户端，要登录 VPS，当然需要 SSH 客户端<br /
 <td align="center">20 GB</td>
 <td align="center">1 G</td>
 <td align="center">1 TB / 月</td>
-<td align="center"><strong>$25.99 / 半年</strong></td>
+<td align="center"><strong>$49.99 / 年</strong></td>
 <td align="center"><a href="https://affpass.com/go/bwg/44" rel="nofollow" target="_blank">购买</a></td>
-</tr>
-
-<tr>
-<td align="center">CN2</td>
-<td align="center">1 核</td>
-<td align="center">512 MB</td>
-<td align="center">10 GB</td>
-<td align="center">1 G</td>
-<td align="center">500GB / 月</td>
-<td align="center"><strong>$29.99 / 年</strong></td>
-<td align="center"><a href="https://affpass.com/go/bwg/56" rel="nofollow" target="_blank">购买</a></td>
 </tr>
 
 <tr>
@@ -461,7 +439,7 @@ Xshell 是一个 SSH 客户端，要登录 VPS，当然需要 SSH 客户端<br /
 <td align="center">20 GB</td>
 <td align="center">1 G</td>
 <td align="center">1000GB / 月</td>
-<td align="center"><strong>$29.99 / 半年</strong></td>
+<td align="center"><strong>$49.99 / 年</strong></td>
 <td align="center"><a href="https://affpass.com/go/bwg/57" rel="nofollow" target="_blank">购买</a></td>
 </tr>
 
@@ -483,7 +461,7 @@ Xshell 是一个 SSH 客户端，要登录 VPS，当然需要 SSH 客户端<br /
 <td align="center">20 GB</td>
 <td align="center"><strong>2.5 G</strong></td>
 <td align="center">1000GB / 月</td>
-<td align="center"><strong>$35.99 / 季</strong></td>
+<td align="center"><strong>$65.99 / 半年</strong></td>
 <td align="center"><a href="https://affpass.com/go/bwg/87" rel="nofollow" target="_blank">购买</a></td>
 </tr>
 
