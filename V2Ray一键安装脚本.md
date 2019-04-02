@@ -188,9 +188,9 @@ Caddy 配置文件路径：/etc/caddy/Caddyfile<br />
 <p>本脚本集成了 Caddy，但不集成任何 Caddy 插件，如果你需要安装某些 Caddy 插件，你可以使用官方的 Caddy 安装脚本来一键安装。<br />
 本人的脚本集成的 Caddy 的安装路径，跟 Caddy 官方的安装脚本是一致的。所以可以直接安装，不会有任何问题</p>
 
-<p>举个例子，安装包含 filemanager 插件的 Caddy，执行如下命令即可</p>
+<p>举个例子，安装包含 http.filebrowser 插件的 Caddy，执行如下命令即可</p>
 
-<pre><code>curl https://getcaddy.com | bash -s personal http.filemanager
+<pre><code>curl https://getcaddy.com | bash -s personal http.filebrowser
 </code></pre>
 
 <p>你可以在 <a href="https://caddyserver.com/download" rel="nofollow" target="_blank">https://caddyserver.com/download</a> 找到 Caddy 更多插件和安装命令。</p>
