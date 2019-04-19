@@ -508,8 +508,20 @@ Xshell 是一个 SSH 客户端，要登录 VPS，当然需要 SSH 客户端<br /
 
 <p><strong>VPS 速度：香港线路 &gt; CN2 GIA 线路 &gt; CN2 线路 &gt; 普通线路</strong></p>
 
-<p><strong>香港套餐 VPS 的速度最快。</strong> 如果你非常在乎速度的话，建议购买香港线路的 VPS，当然，但价格贵，流量相对其他套餐来说也是比较少的……退一步的选择是 CN2 GIA 线路，这个线路的速度也比较好。<br />
-当然啦！记住一分钱一分货。</p>
+<p><strong>香港套餐 VPS 的速度最快。</strong> 如果你非常在乎速度的话，建议购买香港线路的 VPS，当然，但价格贵，流量相对其他套餐来说也是比较少的……退一步的选择是 CN2 GIA 线路，这个线路的速度也比较好。</p>
+
+<p>线路是比较重要的，像香港和 CN2 GIA 线路到晚上一般不会怎么炸，其他的到了晚上可能会出现很慢慢的感觉。</p>
+
+<p>我本人比较推荐 CN2 GIA 线路，稳定性，速度与价格适中选择，当然啦！如果你觉得价格太贵了，推荐你查看一下<a href="https://bwgjms.com/post/1/" target="_blank">
+     搬瓦工 Just My Socks  
+</a>
+，搬瓦工官方出品的代理服务，同样是 CN2 GIA 线路，<strong>每月仅需 $2.88 起！</strong>再也不用自己折腾搭建了，更不用担心 IP 被墙问题！<br />
+Just My Socks 购买教程在这里：<a href="https://bwgjms.com/post/1/" target="_blank">
+     搬瓦工 Just My Socks 详细图文购买教程  
+</a>
+</p>
+
+<p>毫无疑问！绝对的一分钱一分货。</p>
 
 <blockquote>
 <p>如果出现 out of stock 这样的提示，那就是这个套餐卖完了，选择其他套餐即可。</p>

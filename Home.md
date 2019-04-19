@@ -5,6 +5,12 @@
 
 <p>请考虑 <a href="https://www.v2ray.com/chapter_00/02_donate.html" rel="nofollow" target="_blank">资助 V2Ray 发展</a>。</p>
 
+<h2 id="温馨提示">温馨提示</h2>
+
+<p>我们的永久域名是：<a href="https://233v2.com" rel="nofollow" target="_blank">233v2.com</a> (已墙)</p>
+
+<p>此 WIKI 仅作备份使用，内容可能无法与网站保持同步。</p>
+
 <h2 id="v2ray-一键安装脚本">V2Ray 一键安装脚本</h2>
 
 <p><a href="https://github.com/233boy/v2ray/wiki/V2Ray%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC" rel="nofollow" target="_blank">V2Ray 一键安装脚本</a></p>
@@ -17,8 +23,12 @@
 
 <h2 id="v2ray客户端使用教程">V2Ray客户端使用教程</h2>
 
-<p>Windows<br />
-<a href="https://github.com/233boy/v2ray/wiki/V2RayN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B" rel="nofollow" target="_blank">V2RayN使用教程</a></p>
+<ul>
+<li>Windows<br />
+<a href="https://github.com/233boy/v2ray/wiki/V2RayN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B" rel="nofollow" target="_blank">V2RayN使用教程</a><br />
+<br />
+<br /></li>
+</ul>
 
 <h2 id="cloudflare-中转">Cloudflare 中转</h2>
 
