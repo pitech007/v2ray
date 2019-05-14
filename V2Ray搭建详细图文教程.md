@@ -36,14 +36,14 @@ Xshell 是一个 SSH 客户端，要登录 VPS，当然需要 SSH 客户端<br /
 
 <h2 id="购买一个vps">购买一个VPS</h2>
 
-<p>拥有一个 VPS 是必需的。<br />
-选择合适的VPS套餐，VPS套餐来自：<a href="https://affpass.com/go/bwg" rel="nofollow" target="_blank">搬瓦工（Bandwagon Host）</a></p>
+<p>想要搭建 V2Ray， 拥有一个 VPS 是必需的。<br />
+我们推荐使用：<a href="https://affpass.com/go/bwg" rel="nofollow" target="_blank">搬瓦工（Bandwagon Host）</a> VPS 来搭建 V2Ray，搬瓦工是一个对中国用户极度友好的 VPS 商家，有香港，CN2 GIA 等线路，支持支付宝付款，当然也是支持退款的！</p>
 
 <blockquote>
 <p>备注：按住 Ctrl + 单击， 即可在新窗口打开链接</p>
 </blockquote>
 
-<p>推荐购买的套餐如下</p>
+<p>推荐购买的搬瓦工套餐如下</p>
 
 <table>
 <thead>
