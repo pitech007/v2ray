@@ -116,7 +116,7 @@ Xshell 是一个 SSH 客户端，要登录 VPS，当然需要 SSH 客户端<br /
 </tr>
 
 <tr>
-<td align="center">CN2 GIA</td>
+<td align="center">CN2 GIA-E</td>
 <td align="center">2 核</td>
 <td align="center">1 GB</td>
 <td align="center">20 GB</td>
@@ -127,7 +127,7 @@ Xshell 是一个 SSH 客户端，要登录 VPS，当然需要 SSH 客户端<br /
 </tr>
 
 <tr>
-<td align="center">CN2 GIA</td>
+<td align="center">CN2 GIA-E</td>
 <td align="center">3 核</td>
 <td align="center">2 GB</td>
 <td align="center">40 GB</td>
@@ -138,7 +138,7 @@ Xshell 是一个 SSH 客户端，要登录 VPS，当然需要 SSH 客户端<br /
 </tr>
 
 <tr>
-<td align="center">CN2 GIA</td>
+<td align="center">CN2 GIA-E</td>
 <td align="center">4 核</td>
 <td align="center">4 GB</td>
 <td align="center">80 GB</td>
@@ -149,7 +149,7 @@ Xshell 是一个 SSH 客户端，要登录 VPS，当然需要 SSH 客户端<br /
 </tr>
 
 <tr>
-<td align="center">CN2 GIA</td>
+<td align="center">CN2 GIA-E</td>
 <td align="center">6 核</td>
 <td align="center">8 GB</td>
 <td align="center">160 GB</td>
@@ -160,7 +160,7 @@ Xshell 是一个 SSH 客户端，要登录 VPS，当然需要 SSH 客户端<br /
 </tr>
 
 <tr>
-<td align="center">CN2 GIA</td>
+<td align="center">CN2 GIA-E</td>
 <td align="center">8 核</td>
 <td align="center">16 GB</td>
 <td align="center">320 GB</td>
@@ -171,7 +171,7 @@ Xshell 是一个 SSH 客户端，要登录 VPS，当然需要 SSH 客户端<br /
 </tr>
 
 <tr>
-<td align="center">CN2 GIA</td>
+<td align="center">CN2 GIA-E</td>
 <td align="center">10 核</td>
 <td align="center">32 GB</td>
 <td align="center">640 GB</td>
@@ -182,7 +182,7 @@ Xshell 是一个 SSH 客户端，要登录 VPS，当然需要 SSH 客户端<br /
 </tr>
 
 <tr>
-<td align="center">CN2 GIA</td>
+<td align="center">CN2 GIA-E</td>
 <td align="center">12 核</td>
 <td align="center">64 GB</td>
 <td align="center">1280 GB</td>
@@ -477,7 +477,7 @@ Xshell 是一个 SSH 客户端，要登录 VPS，当然需要 SSH 客户端<br /
 </tr>
 
 <tr>
-<td align="center">CN2 GIA</td>
+<td align="center">CN2 GIA-E</td>
 <td align="center">2 核</td>
 <td align="center">1 GB</td>
 <td align="center">20 GB</td>
