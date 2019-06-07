@@ -15,6 +15,11 @@
 <strong>教程真的写得比较简陋，如果实在折腾不成功，那也很正常的，改天再来</strong><br />
 <strong>或者直接放弃</strong></p>
 
+<h2 id="这是一个提示">这是一个提示</h2>
+
+<p>真是无聊，折腾啥啊。<a href="https://affping.com/to/bwgjms/post/how-to-buy-justmysocks/" class="links" target="_blank">买个搬瓦工 Just My Socks 先凑合用着就可以了</a>，<b>被墙自动换 IP，无须担心 IP 被墙！</b><br />
+其他的等风声过了再说了，套什么 CF，速度慢到怀疑人生。</p>
+
 <h2 id="准备">准备</h2>
 
 <p>一个域名，建议使用免费域名<br />

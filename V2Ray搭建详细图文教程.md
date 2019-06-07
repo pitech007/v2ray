@@ -874,7 +874,7 @@ ISP 常作怪，用 动态端口<br />
 
 <h2 id="反馈问题">反馈问题</h2>
 
-<p>请先查阅：<a href="https://v2ray6.com/post/10/">V2Ray 一键安装脚本疑问集合</a><br />
+<p>请先查阅：<a href="https://233v2.com/post/10/">V2Ray 一键安装脚本疑问集合</a><br />
 Telegram 群组：<a href="https://t.me/blog233" rel="nofollow" target="_blank">
      https://t.me/blog233 
 </a>
