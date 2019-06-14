@@ -27,6 +27,13 @@ v3 版本，更加好用了。新年快乐！<br />
 <br /></li>
 </ul>
 
+<h2 id="这是一个提示">这是一个提示</h2>
+
+<blockquote>
+<p>真是无聊，折腾啥啊。<a href="https://affping.com/to/bwgjms/post/how-to-buy-justmysocks/" class="links" target="_blank">买个搬瓦工 Just My Socks 先凑合用着就可以了</a>，<b>被墙自动换 IP，无须担心 IP 被墙！</b><br />
+其他的等风声过了再说了，套什么 CF，速度慢到怀疑人生。</p>
+</blockquote>
+
 <h2 id="温馨提示">温馨提示</h2>
 
 <p><strong>特么这个脚本没有挖矿，没有挖矿，没有挖矿。</strong> 我很抱歉……认真的开了个玩笑<br />
@@ -72,7 +79,7 @@ v3 版本，更加好用了。新年快乐！<br />
 <p>要求：Ubuntu 16+ / Debian 8+ / CentOS 7+ 系统<br />
 推荐使用 Debian 9 系统，脚本会自动启用 BBR 优化。<br />
 备注：不推荐使用 Debian 8 系统，因为 Caddy 申请证书可能会出现一些莫名其妙的问题<br />
-<strong>强烈推荐使用 <a href="https://affpass.com/go/bwg" rel="nofollow" target="_blank">搬瓦工VPS</a>，稳定，快速，针对中国线路专门优化，完全无须担心跑路，服务好，30天退款保证。<br />
+<strong>我们推荐使用 <a href="https://affpass.com/go/bwg" rel="nofollow" target="_blank">搬瓦工VPS</a>，稳定，快速，针对中国线路专门优化，无须担心跑路，服务好，并且支持退款。<br />
 在这里可以找到 <a href="https://233vps.com/post/bandwagonhost-plans/" target="_blank">
      搬瓦工 VPS 套餐大全  
 </a>
@@ -209,7 +216,7 @@ Caddy 配置文件路径：/etc/caddy/Caddyfile<br />
 
 <h2 id="反馈问题">反馈问题</h2>
 
-<p>请先查阅：<a href="https://v2ray6.com/post/10/">V2Ray 一键安装脚本疑问集合</a><br />
+<p>请先查阅：<a href="https://233v2.com/post/10/">V2Ray 一键安装脚本疑问集合</a><br />
 Telegram 群组：<a href="https://t.me/blog233" rel="nofollow" target="_blank">
      https://t.me/blog233 
 </a>
@@ -284,4 +291,4 @@ chmod +x install.sh
 使用一键脚本并不会害了你，并且会让你节省大量的时间，工具从来都是为了更快的解决问题。</p>
 
 <p><img src="https://affpass.com/ga?ga=v2ray&amp;dt=github.wiki.1&amp;dr=&amp;ul=zh-CN&amp;sd=24-bit&amp;sr=&amp;vp=&amp;z=0&amp;dl=/github/1" alt="" /></p>
-</div>
+</div
