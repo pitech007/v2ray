@@ -79,7 +79,7 @@ v3 版本，更加好用了。新年快乐！<br />
 <p>要求：Ubuntu 16+ / Debian 8+ / CentOS 7+ 系统<br />
 推荐使用 Debian 9 系统，脚本会自动启用 BBR 优化。<br />
 备注：不推荐使用 Debian 8 系统，因为 Caddy 申请证书可能会出现一些莫名其妙的问题<br />
-<strong>我们推荐使用 <a href="https://to.affpass.com/go/bwg" rel="nofollow" target="_blank">搬瓦工VPS</a>，稳定，快速，针对中国线路专门优化，无须担心跑路，服务好，并且支持退款。<br />
+<strong>我们推荐使用 <a href="https://on.affpass.com/go/bwg" rel="nofollow" target="_blank">搬瓦工VPS</a>，稳定，快速，针对中国线路专门优化，无须担心跑路，服务好，并且支持退款。<br />
 在这里可以找到 <a href="https://233vps.com/post/bandwagonhost-plans/" target="_blank">
      搬瓦工 VPS 套餐大全  
 </a>
