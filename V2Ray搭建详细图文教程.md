@@ -513,11 +513,11 @@ Xshell 是一个 SSH 客户端，要登录 VPS，当然需要 SSH 客户端<br /
 <p>线路是比较重要的，像香港和 CN2 GIA 线路到晚上一般不会怎么炸，其他的到了晚上可能会出现很慢慢的感觉。</p>
 
 <p>我本人比较推荐 CN2 GIA 线路，稳定性，速度与价格适中选择，当然啦！如果你觉得价格太贵了，推荐你查看一下<a href="https://affping.com/to/bwgjms/post/how-to-buy-justmysocks/" target="_blank">
-     搬瓦工 Just My Socks  
+     Just My Socks  
 </a>
 ，搬瓦工官方出品的代理服务，同样是 CN2 GIA 线路，<strong>每月仅需 $2.88 起！</strong>再也不用自己折腾搭建了，<strong>最最最最重要的是：被墙自动换 IP，无须担心 IP 被墙！</strong><br />
 Just My Socks 购买教程在这里：<a href="https://affping.com/to/bwgjms/post/how-to-buy-justmysocks/" target="_blank">
-     搬瓦工 Just My Socks 详细图文购买教程  
+     Just My Socks 详细图文购买教程  
 </a>
 </p>
 
