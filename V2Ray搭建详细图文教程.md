@@ -515,7 +515,7 @@ Xshell 是一个 SSH 客户端，要登录 VPS，当然需要 SSH 客户端<br /
 <p>我本人比较推荐 CN2 GIA 线路，稳定性，速度与价格适中选择，当然啦！如果你觉得价格太贵了，推荐你查看一下<a href="https://affping.com/to/bwgjms/post/how-to-buy-justmysocks/" target="_blank">
      Just My Socks  
 </a>
-，搬瓦工官方出品的代理服务，同样是 CN2 GIA 线路，<strong>每月仅需 $2.88 起！</strong>再也不用自己折腾搭建了，<strong>最最最最重要的是：被墙自动换 IP，无须担心 IP 被墙！</strong><br />
+，搬瓦工官方出品的代理服务，同样是 CN2 GIA 线路，<strong>每月仅需 $2.88 起！</strong>并且支持退款，放心无忧，再也不用自己折腾搭建了，<strong>最最最最重要的是：被墙自动换 IP，无须担心 IP 被墙！</strong><br />
 Just My Socks 购买教程在这里：<a href="https://affping.com/to/bwgjms/post/how-to-buy-justmysocks/" target="_blank">
      Just My Socks 详细图文购买教程  
 </a>
