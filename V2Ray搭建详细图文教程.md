@@ -63,45 +63,45 @@ Xshell 是一个 SSH 客户端，要登录 VPS，当然需要 SSH 客户端<br /
 <tr>
 <td align="center">香港</td>
 <td align="center">2 核</td>
-<td align="center">8192 MB</td>
-<td align="center">160 GB</td>
+<td align="center">2048 MB</td>
+<td align="center">40 GB</td>
 <td align="center">1 G</td>
 <td align="center">500GB / 月</td>
-<td align="center"><strong>$79.99 / 月</strong></td>
-<td align="center"><a href="https://on.affpass.com/go/bwg/64" rel="nofollow" target="_blank">购买</a></td>
+<td align="center"><strong>$89.99 / 月</strong></td>
+<td align="center"><a href="https://on.affpass.com/go/bwg/95" rel="nofollow" target="_blank">购买</a></td>
 </tr>
 
 <tr>
 <td align="center">香港</td>
 <td align="center">4 核</td>
+<td align="center">4096 MB</td>
+<td align="center">80 GB</td>
+<td align="center">1 G</td>
+<td align="center">1000GB / 月</td>
+<td align="center">$155.99 / 月</td>
+<td align="center"><a href="https://on.affpass.com/go/bwg/96" rel="nofollow" target="_blank">购买</a></td>
+</tr>
+
+<tr>
+<td align="center">香港</td>
+<td align="center">6 核</td>
+<td align="center">8192 MB</td>
+<td align="center">160 GB</td>
+<td align="center">1 G</td>
+<td align="center">2000GB / 月</td>
+<td align="center">$299.99 / 月</td>
+<td align="center"><a href="https://on.affpass.com/go/bwg/97" rel="nofollow" target="_blank">购买</a></td>
+</tr>
+
+<tr>
+<td align="center">香港</td>
+<td align="center">8 核</td>
 <td align="center">16384 MB</td>
 <td align="center">320 GB</td>
 <td align="center">1 G</td>
-<td align="center">1000GB / 月</td>
-<td align="center">$159.99 / 月</td>
-<td align="center"><a href="https://on.affpass.com/go/bwg/65" rel="nofollow" target="_blank">购买</a></td>
-</tr>
-
-<tr>
-<td align="center">香港</td>
-<td align="center">6 核</td>
-<td align="center">32768 MB</td>
-<td align="center">640 GB</td>
-<td align="center">1 G</td>
-<td align="center">2000GB / 月</td>
-<td align="center">$319.99 / 月</td>
-<td align="center"><a href="https://on.affpass.com/go/bwg/77" rel="nofollow" target="_blank">购买</a></td>
-</tr>
-
-<tr>
-<td align="center">香港</td>
-<td align="center">6 核</td>
-<td align="center">32768 MB</td>
-<td align="center">640 GB</td>
-<td align="center">1 G</td>
 <td align="center">4000GB / 月</td>
-<td align="center">$599.99 / 月</td>
-<td align="center"><a href="https://on.affpass.com/go/bwg/78" rel="nofollow" target="_blank">购买</a></td>
+<td align="center">$589.99 / 月</td>
+<td align="center"><a href="https://on.affpass.com/go/bwg/98" rel="nofollow" target="_blank">购买</a></td>
 </tr>
 
 <tr>
@@ -490,12 +490,12 @@ Xshell 是一个 SSH 客户端，要登录 VPS，当然需要 SSH 客户端<br /
 <tr>
 <td align="center">香港</td>
 <td align="center">2 核</td>
-<td align="center">8192 MB</td>
-<td align="center">160 GB</td>
+<td align="center">2048 MB</td>
+<td align="center">40 GB</td>
 <td align="center">1 G</td>
 <td align="center">500GB / 月</td>
-<td align="center"><strong>$79.99 / 月</strong></td>
-<td align="center"><a href="https://on.affpass.com/go/bwg/64" rel="nofollow" target="_blank">购买</a></td>
+<td align="center"><strong>$89.99 / 月</strong></td>
+<td align="center"><a href="https://on.affpass.com/go/bwg/95" rel="nofollow" target="_blank">购买</a></td>
 </tr>
 </tbody>
 </table>
