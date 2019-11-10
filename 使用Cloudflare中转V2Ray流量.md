@@ -17,7 +17,7 @@
 
 <h2 id="这是一个提示">这是一个提示</h2>
 
-<p>真是无聊，折腾啥啊。<a href="https://justmysocks.xyz/buy/" class="links" target="_blank">买个搬瓦工 Just My Socks 先凑合用着就可以了</a>，<b>被墙自动换 IP，无须担心 IP 被墙！</b>Just My Socks 是搬瓦工出品的代理服务，质量可靠，优质 CN2 GIA 线路，并且支持退款，放心无忧。<br />
+<p>真是无聊，折腾啥啊。<a href="https://justmysocks.xyz/buy-justmysocks/" class="links" target="_blank">买个搬瓦工 Just My Socks 先凑合用着就可以了</a>，<b>被墙自动换 IP，无须担心 IP 被墙！</b>Just My Socks 是搬瓦工出品的代理服务，质量可靠，优质 CN2 GIA 线路，并且支持退款，放心无忧。<br />
 套什么 CF，速度慢到怀疑人生。</p>
 
 <h2 id="准备">准备</h2>

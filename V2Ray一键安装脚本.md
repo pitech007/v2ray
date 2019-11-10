@@ -29,7 +29,7 @@ v3 版本，更加好用了。新年快乐！<br />
 
 <h2 id="这是一个提示">这是一个提示</h2>
 
-<p>真是无聊，折腾啥啊。如果你担心 IP 被墙，建议买个 <a href="https://justmysocks.xyz/buy/" class="links" target="_blank">搬瓦工 Just My Socks </a>先凑合用着就可以了，<b>被墙自动换 IP，无须担心 IP 被墙！</b>Just My Socks 是搬瓦工出品的代理服务，质量可靠，优质 CN2 GIA 线路，并且支持退款，放心无忧。</p>
+<p>真是无聊，折腾啥啊。如果你担心 IP 被墙，建议买个 <a href="https://justmysocks.xyz/buy-justmysocks/" class="links" target="_blank">搬瓦工 Just My Socks </a>先凑合用着就可以了，<b>被墙自动换 IP，无须担心 IP 被墙！</b>Just My Socks 是搬瓦工出品的代理服务，质量可靠，优质 CN2 GIA 线路，并且支持退款，放心无忧。</p>
 
 <h2 id="温馨提示">温馨提示</h2>
 
