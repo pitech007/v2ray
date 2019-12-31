@@ -257,7 +257,7 @@ chmod +x install.sh
 
 <h2 id="关注脚本最新动态">关注脚本最新动态</h2>
 
-<p>本人会在 <a href="https://t.me/blog2333" rel="nofollow" target="_blank">本站 Telegram 公告频道</a> 推送脚本最新动态相关，如果你使用 Telegram 的话，可以关注一下。<br />
+<p>本人会在 <a href="https://t.me/tg2333" rel="nofollow" target="_blank">本站 Telegram 公告频道</a> 推送脚本最新动态相关，如果你使用 Telegram 的话，可以关注一下。<br />
 当然啦，你也可以加入 <a href="https://t.me/blog233" rel="nofollow" target="_blank">本站 Telegram 群组</a> 来吹水。</p>
 
 <h2 id="资助-v2ray">资助 V2Ray</h2>
