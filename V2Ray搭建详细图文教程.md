@@ -567,7 +567,7 @@ Location 选择: <code>HK - Hong Kong xxxxx</code> （如果你购买的是香�
 
 <h2 id="结算">结算</h2>
 
-<p>推荐使用搬瓦工 6.38% 优惠码：<a href="https://on.affpass.com/go/bwg" rel="nofollow" target="_blank">BWH34QMFYT2R</a></p>
+<p>推荐使用搬瓦工 6.58% 优惠码：<a href="https://on.affpass.com/go/bwg" rel="nofollow" target="_blank">BWH3HYATVBJW</a></p>
 
 <p>这个优惠码是搬瓦工目前最高优惠的优惠码<br />
 输入优惠码之后点击 <code>Validate Code &gt;&gt;</code></p>
