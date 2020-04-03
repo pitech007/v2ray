@@ -860,15 +860,20 @@ OK，按回车继续</p>
 
 <h2 id="telegram-专用代理">Telegram 专用代理</h2>
 
-<p>如果你在使用 Telegram 的话，你可以配置一个 Telegram 的专用代理，这样来，在某些情况下你就不需要再开一个代理软件了。<br />
+<blockquote>
+<p>重要提醒：不建议使用 V2Ray 的 MTProto 代理！<br />
+推荐使用： <a href="https://github.com/cutelua/mtg-dist" rel="nofollow" target="_blank">https://github.com/cutelua/mtg-dist</a></p>
+</blockquote>
+
+<p><del>如果你在使用 Telegram 的话，你可以配置一个 Telegram 的专用代理，这样来，在某些情况下你就不需要再开一个代理软件了。<br />
 输入 <code>v2ray tg</code> 即可配置 TG 专用代理<br />
-配置 Telegram MTProto</p>
+配置 Telegram MTProto</del></p>
 
 
 <img src="https://i.loli.net/2019/01/05/5c3052248ea74.jpg" alt="配置Telegram MTProto">
 
 
-<p>Telegram MTProto 配置信息</p>
+<p><del>Telegram MTProto 配置信息</del></p>
 
 
 <img src="https://i.loli.net/2019/01/05/5c3052248a10f.jpg" alt="Telegram MTProto 配置信息">
